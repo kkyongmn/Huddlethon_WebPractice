@@ -1,0 +1,19 @@
+#gdgOnSogang{
+    background-color: pink;
+}
+
+header {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px 0;
+}
